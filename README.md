@@ -1,4 +1,16 @@
 RAFAEL AUGUSTO BARBOSA & RAFAEL RODRIGUES SEGUI
-
+FORAM ADICIONADAS AS DUPLAS NO PROJETO
 ![image](https://github.com/user-attachments/assets/bcb2b3b7-d4e3-4e22-9aa0-0ca080567fa0)
 ![image](https://github.com/user-attachments/assets/09f38d01-c00c-499c-8fa2-5d6aa44c1f5f)
+
+GIT INIT: para inicializar um novo repositorio vazio na pasta local
+
+git config : ADICIONA EMAIL E NOME
+
+GIT STATUS: VERIFICA OS STATUS DA RAMIFICACAO
+
+GITT REMOTE ADD ORIGIN : NOMEIA E ADICIONA REPOSITORIO REMOTO
+
+GIT BRANCH -M MAIN TORNA A BRANCH PRINCIPAL
+
+GIT PUSH: PUXA AS MODIFICACOES
